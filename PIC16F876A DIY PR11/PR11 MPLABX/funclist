@@ -1,0 +1,14 @@
+_delay: CODE, 473 0 22
+_main: CODE, 1531 0 517
+___lwdiv: CODE, 617 0 78
+_lcd_goto: CODE, 520 0 29
+___lldiv: CODE, 787 0 110
+_send_config: CODE, 452 0 21
+_dis_num: CODE, 1021 0 510
+_e_pulse: CODE, 495 0 25
+___lwmod: CODE, 549 0 68
+_read_adc: CODE, 897 0 124
+_send_char: CODE, 431 0 21
+___llmod: CODE, 695 0 92
+_read_temp: CODE, 415 0 16
+Total: 1633
