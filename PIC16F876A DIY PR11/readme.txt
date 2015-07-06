@@ -1,0 +1,1 @@
+This project will use PIC16F876A to control NPN power transistor (BD135) further drive DC brushless fans, LEDs and buzzer when the certain temperature was detected. Compatible with MPLAB IDE with HITECH C compiler and MPLABX with HITECH C compiler v9.83/v9.82 and XC8 compiler.
